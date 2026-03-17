@@ -46,7 +46,7 @@ def verify_user(user_id):
     total_verified += 1
 
 def short_link(user_id):
-    long_url = f"https://t.me/?start=verify_{user_id}"
+    long_url = f"https://t.me/?start=verify_{@numtoinffo_bot}"
 
     try:
         api = f"{SHORTNER_URL}/api?api={SHORTNER_API}&url={long_url}"
