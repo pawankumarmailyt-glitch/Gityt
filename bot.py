@@ -5,9 +5,8 @@ import time
 # ================= CONFIG =================
 BOT_TOKEN = "8633522224:AAHK62_S-flLwbZii5f-tJ4OQcw_zI5qoeA"
 EXTERNAL_API_URL = "https://nv2.ek4nsh.in/api?key=3012&mobile=9876543210"
+SHORTNER_URL = "https://arolinks.com/api"
 SHORTNER_API = "70a4cdbd945a01d2be1459bef097f66fd742508b"
-SHORTNER_URL = "https://arolinks.com/api?api=70a4cdbd945a01d2be1459bef097f66fd742508b&url=yourdestinationlink.com&alias=CustomAlias
-"
 ADMIN_ID = 8351165824
 
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
