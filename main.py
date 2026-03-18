@@ -15,7 +15,7 @@ SHORTNER_URL = "https://arolinks.com/api"
 
 DATABASE_CHANNEL = -1003525179083
 
-BASE_URL = f"https://api.telegram.org/bot{8659209680:AAF0PFICCemksGbnoFk_DgEqNhGsGlDhBiU}/"
+BASE_URL = f"https://api.telegram.org/bot{BOT TOKEN}/"
 
 # ================= STORAGE =================
 user_step = {}
