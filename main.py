@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-BOT_TOKEN = ""  # apna bot token daalo
+BOT_TOKEN = "8659209680:AAF0PFICCemksGbnoFk_DgEqNhGsGlDhBiU"  # apna bot token daalo
 API_URL = "https://nv2.ek4nsh.in/api?key=3012&mobile="
 SHORTNER_API = "https://arolinks.com/api?api=YOUR_API_KEY&url="
 
