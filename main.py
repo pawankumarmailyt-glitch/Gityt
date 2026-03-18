@@ -15,7 +15,7 @@ SHORTNER_URL = "https://arolinks.com/api"
 
 DATABASE_CHANNEL = -1003525179083
 
-BASE_URL = f"https://api.telegram.org/bot{BOT TOKEN}/"
+BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
 
 # ================= STORAGE =================
 user_step = {}
@@ -102,7 +102,7 @@ def format_result(data):
 📧 <b>Email:</b> {email}
 
 ━━━━━━━━━━━━━━━
-🔔 <a href="https://t.me/pluso_official01">Join for more tools 🚀</a>
+🔔 <a href="https://t.me/plus_official01">Join for more tools 🚀</a>
 """
 
 # ================= MAIN =================
