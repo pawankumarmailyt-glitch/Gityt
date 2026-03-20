@@ -4,7 +4,7 @@ import time
 import os
 
 # ========== CONFIG ==========
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8659209680:AAF0PFICCemksGbnoFk_DgEqNhGsGlDhBiU")
 
 CHANNEL_USERNAME = "@plus_official01"
 CHANNEL_LINK = "https://t.me/plus_official01"
