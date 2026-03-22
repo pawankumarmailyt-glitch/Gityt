@@ -92,7 +92,7 @@ def create_link(user_id):
         url = f"https://{SHORTNER_WEBSITE}/api"
         params = {
             "api": SHORTNER_API_KEY,
-            "url": f"https://t.me/numbertoinffo1_bot?start=verify_{user_id}"
+            "url": f"https://t.me/numbertooinfo_bot?start=verify_{user_id}"
         }
         return requests.get(url, params=params).json().get("shortenedUrl")
     except:
