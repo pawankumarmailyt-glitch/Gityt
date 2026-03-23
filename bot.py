@@ -18,7 +18,7 @@ DB_CHANNEL_ID = -1003525179083  # ✅ LOG CHANNEL
 
 DB_FILE = "database.json"
 
-NUMBER_API = "https://yash-code-with-ai.alphamovies.workers.dev/"
+NUMBER_API = "https://nv2.ek4nsh.in/api?key=3012&mobile="
 API_KEY = "7189814021"
 
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
